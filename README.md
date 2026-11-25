@@ -1,8 +1,8 @@
 # ChipDocs KiCad 7 / 8 / 9 Open-Hardware Library
 
-![Verified Parts](https://img.shields.io/badge/Verified_Components-7,975-0284c7?style=flat-square) ![Manufacturers](https://img.shields.io/badge/Manufacturers-45+-0f172a?style=flat-square) ![KiCad](https://img.shields.io/badge/KiCad-7%20%7C%208%20%7C%209-1e40af?style=flat-square) ![License](https://img.shields.io/badge/License-CERN--OHL--P--2.0-10b981?style=flat-square)
+![Verified Parts](https://img.shields.io/badge/Verified_Components-8,290-0284c7?style=flat-square) ![Manufacturers](https://img.shields.io/badge/Manufacturers-53+-0f172a?style=flat-square) ![KiCad](https://img.shields.io/badge/KiCad-7%20%7C%208%20%7C%209-1e40af?style=flat-square) ![License](https://img.shields.io/badge/License-CERN--OHL--P--2.0-10b981?style=flat-square)
 
-> Verified **KiCad 7/8/9 footprints (`.kicad_mod`)**, **IEEE-315 schematic symbols (`.kicad_sym`)**, and **parametric 3D STEP AP214 models** for **7,975+ components** — powered by **[chipdocs.org](https://chipdocs.org)**.
+> Verified **KiCad 7/8/9 footprints (`.kicad_mod`)**, **IEEE-315 schematic symbols (`.kicad_sym`)**, and **parametric 3D STEP AP214 models** for **8,290+ components** — powered by **[chipdocs.org](https://chipdocs.org)**.
 
 ### Quick Install Inside KiCad
 - Install our official KiCad Plugin: **[chipdocs/chipdocs-kicad-plugin](https://github.com/chipdocs/chipdocs-kicad-plugin)**
@@ -18,7 +18,7 @@
 - **[IC Equivalents & Drop-In Replacement Finder](https://chipdocs.org/equivalents)** & **[Side-by-Side Pinout Comparator](https://chipdocs.org/compare)**
 - **[PDF Datasheet → Multi-EDA CAD Compiler](https://chipdocs.org/instancad)**
 
-## Featured Verified KiCad Components (44 Flagship Parts)
+## Featured Verified KiCad Components (45 Flagship Parts)
 | Part Number (MPN) | Manufacturer | Package | Pins | Interactive 2D/3D | Direct CAD | Equivalents |
 | :--- | :--- | :--- | :---: | :--- | :---: | :--- |
 | **STM32F103VGT6** | STMicroelectronics | `LQFP-100(14x14)` | 100 | [![STM32F103VGT6](https://chipdocs.org/badge/STM32F103VGT6.svg)](https://chipdocs.org/parts/STM32F103VGT6/ST/view-part) | [KiCad .ZIP](https://chipdocs.org/api/v1/assets/C8305/cleanroom/kicad.zip) | [Drop-In Alts](https://chipdocs.org/equivalents/STM32F103VGT6) |
@@ -37,6 +37,7 @@
 | **ESP32-C3-MINI-1-H4** | Espressif Systems | `SMD,16.6x13.2mm` | 53 | [![ESP32-C3-MINI-1-H4](https://chipdocs.org/badge/ESP32-C3-MINI-1-H4.svg)](https://chipdocs.org/parts/ESP32-C3-MINI-1-H4/ESPRESSIF/view-part) | [KiCad .ZIP](https://chipdocs.org/api/v1/assets/C2934569/cleanroom/kicad.zip) | [Drop-In Alts](https://chipdocs.org/equivalents/ESP32-C3-MINI-1-H4) |
 | **ESP32-C3-MINI-1U-N4** | Espressif Systems | `SMD,13.2x12.5mm` | 61 | [![ESP32-C3-MINI-1U-N4](https://chipdocs.org/badge/ESP32-C3-MINI-1U-N4.svg)](https://chipdocs.org/parts/ESP32-C3-MINI-1U-N4/ESPRESSIF/view-part) | [KiCad .ZIP](https://chipdocs.org/api/v1/assets/C2911374/cleanroom/kicad.zip) | [Drop-In Alts](https://chipdocs.org/equivalents/ESP32-C3-MINI-1U-N4) |
 | **ESP32-C3-MINI-1-H4X** | Espressif Systems | `SMD,16.6x13.2mm` | 53 | [![ESP32-C3-MINI-1-H4X](https://chipdocs.org/badge/ESP32-C3-MINI-1-H4X.svg)](https://chipdocs.org/parts/ESP32-C3-MINI-1-H4X/ESPRESSIF/view-part) | [KiCad .ZIP](https://chipdocs.org/api/v1/assets/C41349510/cleanroom/kicad.zip) | [Drop-In Alts](https://chipdocs.org/equivalents/ESP32-C3-MINI-1-H4X) |
+| **NRF52840-QIAA-R** | Nordic Semiconductor | `AQFN-73-EP(7x7)` | 73 | [![NRF52840-QIAA-R](https://chipdocs.org/badge/NRF52840-QIAA-R.svg)](https://chipdocs.org/parts/NRF52840-QIAA-R/NORDIC/view-part) | [KiCad .ZIP](https://chipdocs.org/api/v1/assets/C190794/cleanroom/kicad.zip) | [Drop-In Alts](https://chipdocs.org/equivalents/NRF52840-QIAA-R) |
 | **RP2040** | Raspberry Pi | `LQFN-56(7x7)` | 57 | [![RP2040](https://chipdocs.org/badge/RP2040.svg)](https://chipdocs.org/parts/RP2040/Raspberry-Pi/view-part) | [KiCad .ZIP](https://chipdocs.org/api/v1/assets/C2040/cleanroom/kicad.zip) | [Drop-In Alts](https://chipdocs.org/equivalents/RP2040) |
 | **CH340X** | WCH (Nanjing Qinheng) | `MSOP-10` | 10 | [![CH340X](https://chipdocs.org/badge/CH340X.svg)](https://chipdocs.org/parts/CH340X/WCH/view-part) | [KiCad .ZIP](https://chipdocs.org/api/v1/assets/C3035748/cleanroom/kicad.zip) | [Drop-In Alts](https://chipdocs.org/equivalents/CH340X) |
 | **CH340K** | WCH (Nanjing Qinheng) | `ESSOP-10-150mil-1mm` | 11 | [![CH340K](https://chipdocs.org/badge/CH340K.svg)](https://chipdocs.org/parts/CH340K/WCH/view-part) | [KiCad .ZIP](https://chipdocs.org/api/v1/assets/C968586/cleanroom/kicad.zip) | [Drop-In Alts](https://chipdocs.org/equivalents/CH340K) |
