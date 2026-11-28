@@ -1,8 +1,8 @@
 # ChipDocs KiCad 7 / 8 / 9 Open-Hardware Library
 
-![Verified Parts](https://img.shields.io/badge/Verified_Components-8,865-0284c7?style=flat-square) ![Manufacturers](https://img.shields.io/badge/Manufacturers-53+-0f172a?style=flat-square) ![KiCad](https://img.shields.io/badge/KiCad-7%20%7C%208%20%7C%209-1e40af?style=flat-square) ![License](https://img.shields.io/badge/License-CERN--OHL--P--2.0-10b981?style=flat-square)
+![Verified Parts](https://img.shields.io/badge/Verified_Components-9,152-0284c7?style=flat-square) ![Manufacturers](https://img.shields.io/badge/Manufacturers-53+-0f172a?style=flat-square) ![KiCad](https://img.shields.io/badge/KiCad-7%20%7C%208%20%7C%209-1e40af?style=flat-square) ![License](https://img.shields.io/badge/License-CERN--OHL--P--2.0-10b981?style=flat-square)
 
-> Verified **KiCad 7/8/9 footprints (`.kicad_mod`)**, **IEEE-315 schematic symbols (`.kicad_sym`)**, and **parametric 3D STEP AP214 models** for **8,865+ components** — powered by **[chipdocs.org](https://chipdocs.org)**.
+> Verified **KiCad 7/8/9 footprints (`.kicad_mod`)**, **IEEE-315 schematic symbols (`.kicad_sym`)**, and **parametric 3D STEP AP214 models** for **9,152+ components** — powered by **[chipdocs.org](https://chipdocs.org)**.
 
 ### Quick Install Inside KiCad
 - Install our official KiCad Plugin: **[chipdocs/chipdocs-kicad-plugin](https://github.com/chipdocs/chipdocs-kicad-plugin)**
